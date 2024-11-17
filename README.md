@@ -46,11 +46,11 @@ The data is available in the data/ directory of the repository.
 Imported Libraries
 The following libraries are used in the project for data manipulation, analysis, and visualization:
 
-Pandas: For data manipulation and analysis.
-NumPy: For numerical operations and handling arrays.
-Matplotlib: For creating visualizations such as plots and charts.
-SciPy: For statistical analysis, including hypothesis testing.
-These libraries help in cleaning, transforming, and analyzing the data efficiently.
+- Pandas: For data manipulation and analysis.
+- NumPy: For numerical operations and handling arrays.
+- Matplotlib: For creating visualizations such as plots and charts.
+- SciPy: For statistical analysis, including hypothesis testing.
+- These libraries help in cleaning, transforming, and analyzing the data efficiently.
 
 Conclusion
 This project provides valuable insights into the video game sales industry, which can help shape marketing strategies for 2017. By analyzing platform performance, genre profitability, user reviews, and regional trends, we can identify key factors that influence the success of a game. The results highlight important trends that can inform advertising campaigns and sales strategies.
