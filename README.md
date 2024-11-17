@@ -1,6 +1,6 @@
 Data Projects (TripleTen)
-# Project_5_TT
-Project-5: Data analysis of the online video game store for 2017 campaign
+### Project_5_TT
+# Project-5: Data analysis of the online video game store for 2017 campaign
 ## Project Description
 In this project, you work for the online video game store **Ice**, which sells video games globally. Your goal is to identify patterns that determine whether a game succeeds or fails, using data from open sources. The dataset includes various factors such as user and expert reviews, genres, platforms (e.g., Xbox, PlayStation), and historical game sales data. By analyzing these patterns, we aim to identify key factors that predict a game's success.
 
