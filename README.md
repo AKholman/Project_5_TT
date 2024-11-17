@@ -43,7 +43,9 @@ The main goal of this analysis is to identify patterns that can help determine t
 
 The data is available in the data/ directory of the repository.
 
-Imported Libraries
+### Imported Libraries
+
+
 The following libraries are used in the project for data manipulation, analysis, and visualization:
 
 - Pandas: For data manipulation and analysis.
@@ -52,10 +54,14 @@ The following libraries are used in the project for data manipulation, analysis,
 - SciPy: For statistical analysis, including hypothesis testing.
 - These libraries help in cleaning, transforming, and analyzing the data efficiently.
 
-Conclusion
+### Conclusion
+
+
 This project provides valuable insights into the video game sales industry, which can help shape marketing strategies for 2017. By analyzing platform performance, genre profitability, user reviews, and regional trends, we can identify key factors that influence the success of a game. The results highlight important trends that can inform advertising campaigns and sales strategies.
 
-Key Takeaways:
+### Key Takeaways:
+
+
 Platform Trends: Focus on platforms with strong growth like PS4 and XOne.
 Genre Insights: Action and Shooter genres have the highest profitability.
 Regional Variations: NA and EU markets are similar, while JP shows distinct preferences.
