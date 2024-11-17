@@ -1,7 +1,7 @@
 Data Projects (TripleTen)
 ### Project_5_TT
 # Project-5: Data analysis of the online video game store for 2017 campaign
-## Project Description
+### Project Description
 In this project, you work for the online video game store **Ice**, which sells video games globally. Your goal is to identify patterns that determine whether a game succeeds or fails, using data from open sources. The dataset includes various factors such as user and expert reviews, genres, platforms (e.g., Xbox, PlayStation), and historical game sales data. By analyzing these patterns, we aim to identify key factors that predict a game's success.
 
 The dataset spans historical data up to 2016, with a focus on preparing for the 2017 marketing campaign. Imagine it’s December 2016, and you're planning strategies for the upcoming year. The data will help you understand which factors drive sales and which platforms, genres, or markets are likely to perform well.
@@ -10,7 +10,7 @@ The dataset includes information on the **Entertainment Software Rating Board (E
 
 By the end of this analysis, you'll be able to spot trends and patterns that can help the company optimize advertising campaigns and target the right audiences in 2017.
 
-## Key Findings
+### Key Findings
 Here are the key insights derived from the analysis:
 
 1. **Platform Sales Trends (2012-2016)**:
@@ -32,7 +32,7 @@ Here are the key insights derived from the analysis:
    - No significant difference in user ratings between the 'Xbox One' and 'PC' platforms.
    - A statistically significant difference in user ratings between 'Action' and 'Sports' genres, indicating different audience preferences.
 
-## Goals
+### Goals
 The main goal of this analysis is to identify patterns that can help determine the potential success of a video game based on historical sales, platform performance, user reviews, and genre trends. These insights can inform a marketing strategy for 2017, identifying the platforms, genres, and target markets most likely to perform well.
 
 **Key objectives include**:
